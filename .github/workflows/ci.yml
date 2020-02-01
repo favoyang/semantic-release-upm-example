@@ -36,9 +36,9 @@ jobs:
       env:
         PKG_ROOT: Packages/com.littlebigfun.semantic-release-upm-example
     - name: post-semantic
-        if: steps.semantic.outputs.new_release_published == 'true'
-        run: |
-          git tag $TAG upm
-          git push origin --tags
+      if: steps.semantic.outputs.new_release_published == 'true'
+      run: |
+        git tag $TAG upm
+        git push origin --tags
       env:
         TAG: ${{ steps.semantic.outputs.new_release_version }}-upm
