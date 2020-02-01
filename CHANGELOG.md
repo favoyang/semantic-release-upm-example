@@ -1,3 +1,11 @@
+## [1.1.1](https://github.com/favoyang/semantic-release-upm-example/compare/v1.1.0...v1.1.1) (2020-02-01)
+
+
+### Bug Fixes
+
+* add missing ci step id ([2cace0a](https://github.com/favoyang/semantic-release-upm-example/commit/2cace0a0ccac6ec78ae05401b8ed156f156fedb3))
+* change upm tag format ([3a42fd6](https://github.com/favoyang/semantic-release-upm-example/commit/3a42fd63572ea1c8d7938a250bcecafec0cd3c48))
+
 # [1.1.0](https://github.com/favoyang/semantic-release-upm-example/compare/v1.0.1...v1.1.0) (2020-02-01)
 
 
