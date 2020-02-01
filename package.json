@@ -1,0 +1,27 @@
+{
+  "name": "com.littlebigfun.semantic-release-upm-example",
+  "version": "1.0.2",
+  "type": "sample",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/favoyang/semantic-release-upm-example.git"
+  },
+  "author": "Favo Yang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/favoyang/semantic-release-upm-example/issues"
+  },
+  "homepage": "https://github.com/favoyang/semantic-release-upm-example#readme",
+  "samples": [
+    {
+      "displayName": "Demo 1",
+      "description": "Description for demo 1",
+      "path": "Samples~/Demo1"
+    },
+    {
+      "displayName": "Demo 2",
+      "description": "Description for demo 2",
+      "path": "Samples~/Demo2"
+    }
+  ]
+}
