@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/favoyang/semantic-release-upm-example/compare/v1.0.1...v1.1.0) (2020-02-01)
+
+
+### Features
+
+* dummy ([639274b](https://github.com/favoyang/semantic-release-upm-example/commit/639274bf0ee3626eeec8f155961bb0700753bd6b))
+
 ## [1.0.1](https://github.com/favoyang/semantic-release-upm-example/compare/v1.0.0...v1.0.1) (2020-02-01)
 
 
