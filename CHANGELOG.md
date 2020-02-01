@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/favoyang/semantic-release-upm-example/compare/v1.0.0...v1.0.1) (2020-02-01)
+
+
+### Bug Fixes
+
+* package.json path or .releaserc ([42b5ccb](https://github.com/favoyang/semantic-release-upm-example/commit/42b5ccb9cbecb47759c34c3536662e9fbde68c44))
+
 # 1.0.0 (2020-02-01)
 
 
